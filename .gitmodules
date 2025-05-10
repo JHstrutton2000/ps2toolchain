@@ -1,9 +1,9 @@
 [submodule "ps2toolchain-iop"]
-	path = ps2toolchain-iop
+	path = scripts/ps2toolchain-iop
 	url = https://github.com/ps2dev/ps2toolchain-iop
 [submodule "ps2toolchain-ee"]
-	path = ps2toolchain-ee
+	path = scripts/ps2toolchain-ee
 	url = https://github.com/ps2dev/ps2toolchain-ee
 [submodule "ps2toolchain-dvp"]
-	path = ps2toolchain-dvp
+	path = scripts/ps2toolchain-dvp
 	url = https://github.com/ps2dev/ps2toolchain-dvp
